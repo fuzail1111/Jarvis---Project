@@ -1,7 +1,7 @@
 import speech_recognition as sr
 import webbrowser
 import pyttsx3
-import musicLibrary
+import music
 import requests
 from openai import OpenAI
 from gtts import gTTS
